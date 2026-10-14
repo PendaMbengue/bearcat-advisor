@@ -1,0 +1,200 @@
+Source: 2025-2026-Catalog-CIS_DEPT_ONLY 3.3.26.pdf
+Catalog pages: 54-55
+Format note: Column order, line wrapping, and spacing have been normalized
+for plain text. Course rows retain the source order: course number, title,
+credit value. Source wording, course-title variations, elective-list
+punctuation, and page references are preserved.
+Computing and Information Systems
+Computing and Information Systems (CIS) is concerned with all aspects of
+computers and information systems. A successful CIS graduate will earn a
+bachelor of science degree in one of the following majors: Computer
+Science, Information Systems, or Cybersecurity. The curriculum is based on
+the guidelines of prominent professional organizations and combines theory
+with current in-demand technical skills to prepare graduates for continual
+learning throughout their careers in this fast-paced field. The three CIS
+majors are designed to prepare the student for employment in a number of
+positions such as software developer, systems analyst, IT professional, or
+security analyst or to prepare the student for further studies in graduate
+school. Real-world projects and working in teams are strongly emphasized.
+By the end of the sophomore year, CIS majors typically have successfully
+completed several CIS courses, are proficient in at least one object
+oriented programming language, and are ready for internship positions. By
+the end of the senior year, CIS majors have completed a broad range of CIS
+course work that may include database management, data structures,
+operating systems, networking, cybersecurity, systems analysis, artificial
+intelligence, game design, and software engineering. The senior capstone
+project demonstrates the students’ ability to solve problems in teams and
+to learn new technologies and skills on their own. Because technology
+contributes meaningfully to almost all aspects of science and society,
+non-majors may be interested in a CIS minor. The three CIS minors are 18
+credits each and reflect the three CIS majors of Computer Science,
+Information Systems, and Cybersecurity.
+The National Security Agency (NSA) and Department of Homeland Security
+(DHS) have named Saint Vincent College a Center of Academic Excellence
+(CAE) in Cyber Defense Education for its bachelor of science program in
+cybersecurity.
+Computing and Information Systems Program Objectives
+Within two to five years of graduation, graduates of the Computing and
+Information Systems Programs will:
+- Practice the disciplines of Computer Science, Information Systems, or
+Cybersecurity in industry or graduate school by employing aspects of
+their broad knowledge of the field in problem-solving and use of
+technical skills.
+- Conduct themselves in a professional, ethical, and responsible manner
+with respect and awareness for security, social issues, and
+responsibilities inherent in the field.
+Computing and Information Systems Student Learning Outcomes for all Majors
+1. Analyze a complex computing problem and apply principles of computing
+and other relevant disciplines to identify solutions.
+2. Design, implement, and evaluate a computing-based solution to meet a
+given set of computing requirements in the context of the program’s
+discipline.
+3. Communicate effectively in a variety of professional contexts.
+4. Recognize professional responsibilities and make informed judgments in
+computing practice based on legal and ethical principles guided by the
+Benedictine Tradition.
+5. Function effectively as a member or leader of a team engage in
+activities appropriate to the program’s discipline.
+Additional student outcomes for the Computer Science Major:
+6. Apply computer science theory and software development fundamentals to
+produce computing-based solutions.
+Additional student outcomes for the Information Systems Major:
+7. Support the delivery, use, and management of information systems
+within an information systems environment.
+Additional student outcomes for the Cybersecurity Major:
+8. Apply security principles to maintain operations in the presence of
+risks and threats.
+Computing and Information Systems Requirements for all Majors
+All Computing and Information Systems majors must fulfill the core
+curriculum requirements as well as the requirements for one of three
+majors: Computer Science, Information Systems or Cybersecurity. A minor in
+another discipline such as Mathematics, Business, Communication, Graphic
+Design or Criminology, Law and Society is a useful complement to the
+majors.
+Requirements for a Bachelor of Science Degree in Computer Science
+Major Requirements:
+The student must complete the requirements listed in the following
+categories:
+1) CIS Core Courses:
+CS 102 Fundamentals of IT and Computing* 3-4
+CS 110 C++ Programming I 3
+CS 111 C++ Programming II 3
+CS 170 Discrete Structures 3
+CS 171 Introduction to Computability 3
+CS 221 Data Structures 3
+CS 225 Cybersecurity 3
+CS 292 Engineering and Computing Ethics 2
+CS 310 Programming Languages 3
+CS 312 Introduction to Algorithms 3
+CS 321 Data Communication and Computer Networks 3
+CS 330 Operating Systems 3
+CS 335 Computer Organization 3
+CS 350 Database Concepts and Information Structures 3
+CS 355 Software Engineering 3
+CS 357 Computing Science Project I 1
+CS 358 Computing Science Project II 2
+2) CIS Electives (9 credits):
+Choose from the following: CS 205 CS 226 CS 214, CS 250, CS 255, CS 270,
+CS 305, CS 315, CS 322, CS 325, CS326 CS 365, CS 366, CS 367, CS 375
+3) CIS Mathematics Requirement (14 credits):
+MA 111, 112 Analytical Calculus I and II 8
+or
+MA 109, 110 Calculus with Applications I and II 8
+Either choice gives an 8-credit sequence, but 4 credits can be used to
+fulfill the core curriculum mathematics requirement.
+MA 241 Statistics I 3
+or
+MA 311 Probability and Statistics I 3
+MA 251 Linear Algebra 3
+4) Science Requirements (8 credits):
+Any of the following lecture and lab totaling 8 credits: CH 101, CH 103,
+CH 102, CH 104, PH 111, PH 113, PH 112, PH 114, BL 150, BL 151, BL 152, BL
+153
+See page 286 for typical eight semester degree plan. *
+Requirements for a Bachelor of Science Degree in Information Systems
+Major Requirements:
+The student must complete the requirements listed in the following
+categories:
+1) CIS Core Courses:
+CS 102 Fundamentals of IT and Computing* 3-4
+CS 110 C++ Programming I 3
+CS 111 C++ Programming II 3
+CS 170 Discrete Structures 3
+CS 221 Data Structures 3
+CS 225 Cybersecurity 3
+CS 265 Information Systems Management 3
+CS 292 Engineering Computer Ethics 2
+CS 321 Data Communications and Computer Networks 3
+CS 322 Advanced Networking 3
+CS 350 Database Concepts and Information Structures 3
+CS 351 Information Systems Analysis and Design 3
+or
+CS 355 Software Engineering 3
+CS 357 Computing Science Project I 1
+CS 358 Computing Science Project II 2
+2) CIS Electives (9 credits):
+Take 9 credits of CS electives at 200+ level or above 9
+3) CIS Mathematics Requirement (7 credits):
+MA 111 Analytical Calculus I 4
+or
+MA 109 Calculus with Applications I 4
+MA 241 Statistics I 3
+or
+MA 311 Probability and Statistics I 3
+4) Required Social Science Courses (6 credits):
+This major also requires 6 credits chosen from business and/or economics.
+These credits can be included under the core curriculum social science
+requirement.
+5) . Science Requirements (8 credits):
+Any lecture and lab totaling 8 credits from the following disciplines:
+chemistry (CH), physics (PH), biology (BL), natural science (NSCI).
+See page 314 for typical eight semester degree plan. *
+Requirements for a Bachelor of Science Degree in Cybersecurity
+Major Requirements:
+The student must complete the requirements listed in the following
+categories:
+1) CIS Core Courses:
+CS 102 Fundamentals of IT and Computing* 3-4
+CS 110 C++ Programming I 3
+CS 111 C++ Programming II 3
+CS 170 Discrete Structures 3
+CS 221 Data Structures 3
+CS 225 Cybersecurity 3
+CS 265 Information Systems Management 3
+CS 292 Engineering Computer Ethics 2
+CS 310 Programming Languages 3
+CS 321 Data Communications and Computer Networks 3
+CS 322 Advanced Networking 3
+CS 325 Advanced Topics in Cybersecurity 3
+CS 330 Operating Systems 3
+CS 335 Computer Organization 3
+CS 350 Database Concepts and Information Structures 3
+CS 351 Information Systems Analysis and Design 3
+or
+CS 355 Software Engineering 3
+CS 357 Computing Science Project I 1
+CS 358 Computing Science Project II 2
+CS 375 Applied Cryptography 3
+2) CIS Electives (6 credits):
+Choose from the following: CS 205, CS 214, CS 226 CS 250, CS 255, CS 267,
+CS 270, CS 305, CS 315, CS 365, CS 366, CS 367
+3) CIS Mathematics Requirement (7 credits):
+MA 111 Analytical Calculus I 4
+or
+MA 109 Calculus with Applications I 4
+MA 241 Statistics I 3
+or
+MA 311 Probability and Statistics I 3
+4) . Science Requirements (8 credits):
+Any lecture and lab totaling 8 credits from the following disciplines:
+chemistry (CH), physics (PH), biology (BL), natural science (NSCI).
+See page 287 for typical eight semester degree plan. *
+* The recommended 8-semester program plans are listed at the end of the
+catalog. These plans are designed to be a road map to help students
+finish their degrees in a timely manner and should be utilized in
+consultation with their Academic Advisor.
+Minor Information
+Minors are listed in alphabetical order beginning on page 104. For
+information on minors in Computer Science, Information Systems, and
+Cybersecurity, please refer to that section.
+
